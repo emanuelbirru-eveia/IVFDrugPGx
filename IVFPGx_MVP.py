@@ -923,8 +923,8 @@ def render_safety_card(evidence: Dict):
     st.warning("**Note:** PGx associations do not replace standard clinical monitoring.")
 
 def render_label_card(drug: str):
-    """Render Card D - Label/Guideline Awareness"""
-    st.markdown("### 📋 Card D: Label & Guideline Awareness")
+    """Render Label/Guideline Awareness"""
+    st.markdown("### 📋 Label & Guideline Awareness")
     
     label_info = {
         "FSH (Follitropin alfa/delta)": {
