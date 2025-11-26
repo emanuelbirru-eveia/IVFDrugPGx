@@ -93,19 +93,6 @@ This application demonstrates a **precision medicine approach** to IVF treatment
 
 ---
 
-## 📸 Screenshots
-
-### Main Evidence Brief
-![Evidence Brief Interface](docs/screenshots/evidence-brief.png)
-
-### Database Connections
-![Database Integrations](docs/screenshots/database-connections.png)
-
-### Evidence Registry
-![Evidence Registry](docs/screenshots/evidence-registry.png)
-
----
-
 ## 🚀 Installation
 
 ### **Prerequisites**
